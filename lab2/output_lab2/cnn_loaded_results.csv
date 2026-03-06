@@ -1,0 +1,3 @@
+Dataset,Loss,Accuracy
+Train,0.4570,0.8533
+Test,0.6847,0.7653
