@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['german_shepherd']
+
+roboflow:
+  workspace: dogs-type
+  project: german_shepherd-yxxai
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dogs-type/german_shepherd-yxxai/dataset/1
